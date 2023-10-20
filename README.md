@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcel
+👋 Hi, I’m Marcel
 
 <sub>git add (file)</sub>  
 <sub>git clone</sub>  
