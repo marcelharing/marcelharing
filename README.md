@@ -1,4 +1,5 @@
-👋 Hi, I’m Marcel
+👋 Hi, I’m Marcel. I work most of the time with geodata.
+
 
 <sub>git add (file)</sub>  
 <sub>git clone</sub>  
