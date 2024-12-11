@@ -1,4 +1,4 @@
-👋 Hi, I’m Marcel. I work most of the time with geodata.
+👋 Hi, I’m Marcel. I work most of the time with geodata and like Python.
 
 
 <sub>git add (file)</sub>  
