@@ -5,4 +5,4 @@
 <sub>git clone</sub>  
 <sub>git status</sub>  
 <sub>git init</sub>  
-<sub>git remote add (name) (link)</sub>  
+<sub>git remote add (link)</sub>  
